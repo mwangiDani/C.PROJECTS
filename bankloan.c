@@ -22,7 +22,6 @@ int main(){
 		 else{
         printf("unfortunately we are unable to offer you a loan at this time.");
 		 }
-	
 		return 0;
 	
 }
