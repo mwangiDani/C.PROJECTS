@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /*
 Author: Daniel Gitari
@@ -6,6 +7,17 @@ Date:4/10/2024
 program to calculate electricity bill
 */
 
+=======
+/*
+Name: Mwangi Daniel Gitari
+Reg No: CT101/G/21346/24
+Date: 4/10/2024.
+program to calculate electricity bill.
+*/
+
+
+
+>>>>>>> 5d989c8e7e15dc08c3c48800203b567eb7b8a4ee
 #include<stdio.h>
 int main(){
 	int customerID, unitconsumed ,totalbill;
