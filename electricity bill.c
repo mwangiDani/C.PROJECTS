@@ -1,3 +1,11 @@
+
+/*
+Author: Daniel Gitari
+Reg no:CT101/G/21346/24
+Date:4/10/2024
+program to calculate electricity bill
+*/
+
 #include<stdio.h>
 int main(){
 	int customerID, unitconsumed ,totalbill;
